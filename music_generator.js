@@ -69,7 +69,6 @@ function generate_music() {
     outlet(1, midi_messages); // outlet 2 sending midi messages
 }
 
-// 接收其他消息
 function bang() {}
 function msg_int(val) {}
 function list() {}
