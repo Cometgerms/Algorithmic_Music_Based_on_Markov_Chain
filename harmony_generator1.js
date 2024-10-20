@@ -9,7 +9,6 @@ var interval_Transition_Table = {
     "Major Third": { "Minor Third": 0.3, "Perfect Fifth": 0.5, "Major Third": 0.2 },
     "Perfect Fifth": { "Unison": 0.3, "Major Third": 0.4, "Perfect Fifth": 0.3 },
     "Minor Third": { "Unison": 0.2, "Major Third": 0.3, "Perfect Fifth": 0.5 },
-    // Other intervals...
 };
 
 var current_Interval = "Unison";
